@@ -6,5 +6,82 @@
     "GAT parallelization",
     "GAT quantization",
     "GAT hardware acceleration"
+  ],
+  "research_study_list": [
+    {
+      "title": "GACT: Activation Compressed Training for Generic Network Architectures"
+    },
+    {
+      "title": "GACT: Activation Compressed Training for Generic Network Architectures"
+    },
+    {
+      "title": "Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data"
+    },
+    {
+      "title": "Accelerating Transformer Pre-training with 2:4 Sparsity"
+    },
+    {
+      "title": "Transformer Quality in Linear Time"
+    },
+    {
+      "title": "Bandit Samplers for Training Graph Neural Networks"
+    },
+    {
+      "title": "Are GATs Out of Balance?"
+    },
+    {
+      "title": "Dynamic Rescaling for Training GNNs"
+    },
+    {
+      "title": "GATE: How to Keep Out Intrusive Neighbors"
+    },
+    {
+      "title": "GraphSAINT: Graph Sampling Based Inductive Learning Method"
+    },
+    {
+      "title": "GOAT: A Global Transformer on Large-scale Graphs"
+    },
+    {
+      "title": "GATE: How to Keep Out Intrusive Neighbors"
+    },
+    {
+      "title": "Graph Ladling: Shockingly Simple Parallel GNN Training without Intermediate Communication"
+    },
+    {
+      "title": "Adaptive Structural Fingerprints for Graph Attention Networks"
+    },
+    {
+      "title": "Are GATs Out of Balance?"
+    },
+    {
+      "title": "Degree-Quant: Quantization-Aware Training for Graph Neural Networks"
+    },
+    {
+      "title": "$\\rm A^2Q$: Aggregation-Aware Quantization for Graph Neural Networks"
+    },
+    {
+      "title": "Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing"
+    },
+    {
+      "title": "Are GATs Out of Balance?"
+    },
+    {
+      "title": "GATE: How to Keep Out Intrusive Neighbors"
+    },
+    {
+      "title": "Gated Linear Attention Transformers with Hardware-Efficient Training"
+    },
+    {
+      "title": "Transformer Quality in Linear Time"
+    },
+    {
+      "title": "Transformer Quality in Linear Time"
+    },
+    {
+      "title": "Deep Differentiable Logic Gate Networks"
+    },
+    {
+      "title": "Directed Acyclic Transformer for Non-Autoregressive Machine Translation"
+    }
   ]
 }
